@@ -1,5 +1,5 @@
-#Ebay Scraper
-
+# Ebay Scraper
+ 
 This project involves a Python file `ebay-dl.py` that, when given a search term, scrapes eBay pages for items and their corresponding attributes: `name`, `price`, `status`, `shipping` costs, `free_returns` (whether there are free returns available), and `items_sold` (# of the item that has already been sold). After processing all the items under the search term, the program then converts the list of item dictionaries into either a `.json` file or a `.csv` file. 
 
 Since ebay-dl.py is a command prompt script, users must input the following in their command prompt software (Command Prompt or Terminal), where "search term" is the desired item:
