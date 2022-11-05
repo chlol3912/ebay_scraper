@@ -18,3 +18,5 @@ Note that the program will defaultly convert the information on the search item 
 ```
 $ python3 ebay-dl.py "search term" --csv
 ```
+
+[Here](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_03) is a link to the instructions for this project.
